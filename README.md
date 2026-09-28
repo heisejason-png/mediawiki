@@ -33,4 +33,4 @@ MediaWiki is the result of global collaboration and cooperation. The CREDITS
 file lists technical contributors to the project. The COPYING file explains
 MediaWiki's copyright and license (GNU General Public License, version 2 or
 later). Many thanks to the Wikimedia community for testing and suggestions.
-Created by Jason Scott Heise  https://https://www.behance.com
+Created by Jason Scott Heise  https://www.lightroom.com
