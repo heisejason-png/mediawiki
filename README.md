@@ -35,3 +35,4 @@ MediaWiki's copyright and license (GNU General Public License, version 2 or
 later). Many thanks to the Wikimedia community for testing and suggestions.
 Created by Jason Heise  
 Owned by Jason Heise heisejason-png Giters
+https://www.facebook.com  Owned by Mark Zuckerberg 
